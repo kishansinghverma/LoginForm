@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <array name="my_list">
+        <item>Select A Course...</item>
+        <item>B.Tech</item>
+        <item>MCA</item>
+        <item>BCA</item>
+        <item>MBA</item>
+    </array>
+</resources>
